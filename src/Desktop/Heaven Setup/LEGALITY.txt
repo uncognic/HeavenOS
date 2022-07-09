@@ -1,0 +1,11 @@
+LEGAL NOTICE
+This project is not affiliated with or endorsed by Microsoft
+Corporation, and is only offered under the terms of Fair Use,
+as codified by Title 17 United States Code, § 107. By using
+this iso, you certify that you agree to Microsoft's Software
+License Terms ( https://is.gd/w10license ), and will use it
+for short-term personal, non-profit, research, educational,
+and transformative use only. To continue using the iso, you
+must activate the software with your own genuine Microsoft
+key. Commercial distribution is strictly prohibited by law.
+Windows is a registered trademark of Microsoft Corporation.
