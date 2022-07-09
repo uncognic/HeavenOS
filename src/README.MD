@@ -10,7 +10,7 @@ Therefore you can contribute project or learn new things about windows.
 - 7Zip, WinRar or other archive extractor.
 - Take Ownership or Unlocker.
 - A Default Windows Build from Microsoft. You can choose MSDN one, or this which is public.
-([1](https://tb.rg-adguard.net/) [2](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool) [3](https://uupdump.net)
+([1](https://tb.rg-adguard.net/) [2](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool) [3](https://uupdump.net))
 
 ### Building Process
 
