@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/Heaven-OS/Heaven/blob/main/img/banner.jpg" alt="Banner"</img>
+<img src="https://github.com/Heaven-OS/HeavenOS/blob/main/img/banner.jpg" alt="Banner"</img>
   <br>
   HeavenOS
   <br>
