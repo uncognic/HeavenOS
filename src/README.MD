@@ -1,4 +1,4 @@
-## Building From Source
+# Building From Source
 
 CREDITS: **Zusier, imribiy, aeon**
 We are an open-source project, you can build Heaven in most part by yourself.
