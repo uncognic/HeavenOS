@@ -22,7 +22,7 @@ While installing our OS you will get preinstalled:
 - Disabled FSO
 - Disabled Mitigations
 - Optimized SSD drive
-- Enable MSI Mode
+- Enabled MSI Mode
 - and more...
 
 <h2> Discord </h2>
