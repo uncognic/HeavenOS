@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Preset isAutoSaved="true" xmlns="urn:schemas-nliteos-com:pn.v1">
-	<Date>07/09/2022 12:36:16</Date>
+	<Date>07/11/2022 14:59:16</Date>
 	<AppInfo>
 		<Version>2.3.6.8821</Version>
 		<Licensed>Yes</Licensed>
 		<Protections>Yes</Protections>
-		<Host>Windows 11 Pro (22H2) x64 - 10.0.22621.105 (en-US)</Host>
+		<Host>Windows 10 Pro (1803) x64 - 10.0.17134.1 (en-US)</Host>
 	</AppInfo>
 	<ImageInfo>
 		<Version mode="offline">Windows 10 Professional (20H2) x64 - 10.0.19042.631 (en-US)</Version>
-		<GUID>{2AE60FD3-FEC1-46CA-BD4E-F473CBF2A9A8}</GUID>
+		<GUID>{806308C7-891E-42E6-80E9-1148074185B1}</GUID>
 	</ImageInfo>
 	<RemoveComponents>
 		<c>aarsvc 'Agent Activation Runtime'</c>
@@ -17,7 +17,6 @@
 		<c>accessibility_narrator 'Narrator'</c>
 		<c>actioncenter 'Action Center'</c>
 		<c>adamclient 'Active Directory Lightweight Directory Services (AD LDS)'</c>
-		<c>afunix 'Unix socket (AF_UNIX)'</c>
 		<c>alljoyn 'AllJoyn Router Service'</c>
 		<c>appv 'Application Virtualization (App-V)'</c>
 		<c>asimov 'Telemetry Client'</c>
@@ -44,11 +43,12 @@
 		<c>directaccess 'Direct Access Connection'</c>
 		<c>diskmgmt32 'Disk Management - 32 bit'</c>
 		<c>diskquota 'Disk Quota'</c>
-		<c>dmwappushsvc 'WAP Push Message Routing Service (dmwappushsvc)'</c>
 		<c>driver_3ware.inf</c>
 		<c>driver_arcsas.inf</c>
 		<c>driver_c_barcodescanner.inf</c>
+		<c>driver_c_biometric.inf</c>
 		<c>driver_c_cashdrawer.inf</c>
+		<c>driver_c_computeaccelerator.inf</c>
 		<c>driver_c_dot4.inf</c>
 		<c>driver_c_dot4print.inf</c>
 		<c>driver_c_fdc.inf</c>
@@ -57,15 +57,17 @@
 		<c>driver_c_infrared.inf</c>
 		<c>driver_c_linedisplay.inf</c>
 		<c>driver_c_magneticstripereader.inf</c>
+		<c>driver_c_mediumchanger.inf</c>
 		<c>driver_c_pnpprinters.inf</c>
 		<c>driver_c_receiptprinter.inf</c>
+		<c>driver_c_securitydevices.inf</c>
 		<c>driver_c_smartcard.inf</c>
 		<c>driver_c_smartcardfilter.inf</c>
 		<c>driver_c_smartcardreader.inf</c>
 		<c>driver_c_smrdisk.inf</c>
 		<c>driver_c_smrvolume.inf</c>
+		<c>driver_c_sslaccel.inf</c>
 		<c>driver_c_tapedrive.inf</c>
-		<c>driver_cht4sx64.inf</c>
 		<c>driver_cht4vx64.inf</c>
 		<c>driver_ehstorpwddrv.inf</c>
 		<c>driver_ehstortcgdrv.inf</c>
@@ -252,6 +254,7 @@
 		<c>driver_perceptionsimulationsixdofmodels.inf</c>
 		<c>driver_percsas2i.inf</c>
 		<c>driver_percsas3i.inf</c>
+		<c>driver_pmem.inf</c>
 		<c>driver_prnms007.inf</c>
 		<c>driver_prnms008.inf</c>
 		<c>driver_prnms010.inf</c>
@@ -303,7 +306,6 @@
 		<c>driver_wvmic.inf</c>
 		<c>driver_wvmic_ext.inf</c>
 		<c>driver_wvpci.inf</c>
-		<c>dvdplay 'DVD Play'</c>
 		<c>edgeupdate 'Microsoft Edge Update'</c>
 		<c>embeddedexperience 'Device Lockdown (Embedded Experience)'</c>
 		<c>embeddedmode 'Embedded Mode'</c>
@@ -360,8 +362,6 @@
 		<c>kl-00000c04 'Chinese (Traditional, Hong Kong S.A.R.) - US'</c>
 		<c>kl-00001004 'Chinese (Simplified, Singapore) - US'</c>
 		<c>kl-00001404 'Chinese (Traditional, Macao S.A.R.) - US'</c>
-		<c>langchineses 'Chinese Simplified'</c>
-		<c>langchineset 'Chinese Traditional'</c>
 		<c>langime 'Input Method Editor (IME)'</c>
 		<c>langimejp 'Japanese (IME)'</c>
 		<c>langimeko 'Korean (IME)'</c>
@@ -378,8 +378,6 @@
 		<c>mapcontrol 'Map Control'</c>
 		<c>mcupdate 'Processor Microcode Update'</c>
 		<c>mcupdatesvc 'Processor Microcode Update - Servicing'</c>
-		<c>mediaplayernetworksharing 'WMP Network Sharing Service'</c>
-		<c>mediaplayernetworksharing32 'WMP Network Sharing Service - 32 bit'</c>
 		<c>messagingsvc 'Messaging Service'</c>
 		<c>Microsoft.549981C3F5F10 'Cortana'</c>
 		<c>Microsoft.Advertising.Xaml 'Microsoft Advertising SDK for XAML'</c>
@@ -468,7 +466,6 @@
 		<c>pos 'Point of Service (POS)'</c>
 		<c>powershellise32 'PowerShell ISE - 32 bit'</c>
 		<c>pushtoinstall 'Windows PushToInstall Service'</c>
-		<c>rasauto 'Remote Access Auto Connection Manager'</c>
 		<c>rdpclient32 'Remote Desktop Client - 32 bit'</c>
 		<c>rdpserver 'Remote Desktop Server'</c>
 		<c>rdpserverlic 'Remote Desktop Licensing'</c>
@@ -489,6 +486,7 @@
 		<c>securitycenter 'Security Center'</c>
 		<c>servicesmmc32 'Services (management console) - 32 bit'</c>
 		<c>settingsync 'Setting Sync'</c>
+		<c>sfc 'System File Check (SFC)'</c>
 		<c>sharedpc 'Shared PC mode'</c>
 		<c>sihclient 'Server-Initiated Healing Client'</c>
 		<c>simpletcp 'Simple TCP/IP services'</c>
@@ -500,6 +498,7 @@
 		<c>soundthemes 'Sound Themes'</c>
 		<c>speechcommon 'Speech Recognition'</c>
 		<c>speechtts 'Speech TTS'</c>
+		<c>spellchecking 'Spell Checking'</c>
 		<c>srumon 'Data Usage service'</c>
 		<c>sstackwow64 'Servicing Stack - 32 bit'</c>
 		<c>staticfontcache 'Static Font Cache'</c>
@@ -527,12 +526,10 @@
 		<c>tpmvsc 'Virtual Smart Card'</c>
 		<c>troubleshootingsvc 'Recommended Troubleshooting service'</c>
 		<c>uev 'User Experience Virtualization (UE-V)'</c>
-		<c>undockedupdatestack 'Undocked Update Stack'</c>
 		<c>unp 'Universal Notification Platform (UNP)'</c>
 		<c>waasassessment 'Windows Update Medic Service'</c>
 		<c>wallpapers 'Wallpapers (Themes)'</c>
 		<c>wcn 'Windows Connect Now (WCN)'</c>
-		<c>webclient</c>
 		<c>wfmmc32 'Windows Firewall (management console) - 32 bit'</c>
 		<c>wifinetworkmanager 'Wi-Fi Network Manager (Wi-Fi Sense)'</c>
 		<c>winai 'Windows AI Machine Learning'</c>
@@ -561,7 +558,7 @@
 			<Feature enabled="no">NetworkDiscovery</Feature>
 			<Feature enabled="no">NightLight</Feature>
 			<Feature enabled="no">NvidiaSetup</Feature>
-			<Feature enabled="no">OOBE</Feature>
+			<Feature enabled="yes">OOBE</Feature>
 			<Feature enabled="yes">Printing</Feature>
 			<Feature enabled="no">Recommended-All</Feature>
 			<Feature enabled="no">SamsungSwitch</Feature>
@@ -595,7 +592,9 @@
 		</MachineDrivers>
 	</Compatibility>
 	<Features>
+		<Feature name="DirectPlay">true</Feature>
 		<Feature name="Printing-Foundation-InternetPrinting-Client">false</Feature>
+		<Feature name="LegacyComponents">true</Feature>
 		<Feature name="Printing-XPSServices-Features">false</Feature>
 		<Feature name="Printing-Foundation-Features">false</Feature>
 		<Feature name="MSRDC-Infrastructure">false</Feature>
@@ -603,6 +602,7 @@
 		<Feature name="WCF-TCP-PortSharing45">false</Feature>
 		<Feature name="MicrosoftWindowsPowerShellV2">false</Feature>
 		<Feature name="MicrosoftWindowsPowerShellV2Root">false</Feature>
+		<Feature name="SearchEngine-Client-Package">false</Feature>
 		<Feature name="WorkFolders-Client">false</Feature>
 	</Features>
 	<Packages>
@@ -926,6 +926,7 @@
 				<Tweak name="Advanced\NavPaneShowAllFolders">0</Tweak>
 				<Tweak name="{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\ShellFolder\Attributes">-1332477852</Tweak>
 				<Tweak name="Advanced\LaunchTo">1</Tweak>
+				<Tweak name="Explorer\HubMode">1</Tweak>
 				<Tweak name="Explorer\ConfirmFileDelete">0</Tweak>
 				<Tweak name="Advanced\DontUsePowerShellOnWinX">1</Tweak>
 				<Tweak name=".jpg\PhotoViewer.FileAssoc.Tiff">PhotoViewer.FileAssoc.Tiff</Tweak>
@@ -1077,7 +1078,7 @@
 			<Task>imageOptionsDontBackupPresetLog</Task>
 			<Task>imageOptionsCreateIso</Task>
 		</ImageTasks>
-		<AutoIsoFile>C:\Users\Vojtass\Desktop\HEAVEN-20H2.iso</AutoIsoFile>
+		<AutoIsoFile>C:\Users\user\Desktop\HEAVENOS-20H2.iso</AutoIsoFile>
 		<AutoIsoLabel>HEAVEN-20H2</AutoIsoLabel>
 		<AutoSplitSize>4000</AutoSplitSize>
 		<CleanHotfixedLeftovers>3</CleanHotfixedLeftovers>
