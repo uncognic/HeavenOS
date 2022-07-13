@@ -8,7 +8,7 @@
 
 <h2> Private </h2>
 
-Heaven removes Microsoft tracking services and disables almost whole telemetry.
+Heaven removes Microsoft tracking services and disables almost all of the telemetry.
 You can feel safe and work without any dangers.
 
 <h2> Performant </h2>
