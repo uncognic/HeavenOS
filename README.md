@@ -8,12 +8,12 @@
 
 <h2> Private </h2>
 
-Heaven removes Microsoft tracking services and disables almost all of the telemetry.
+Heaven removes Microsoft tracking services and disables almost whole telemetry.
 You can feel safe and work without any dangers.
 
 <h2> Performant </h2>
 
-When installing our OS you will get preinstalled:
+While installing our OS you will get preinstalled:
 
 - Custom Powerplan
 - Optimized Services and Drivers
@@ -27,7 +27,7 @@ When installing our OS you will get preinstalled:
 
 <h2> Discord </h2>
 
-Go ahead and join our [Discord](https://dsc.gg/heavenos) to get support or talk with a great community!
+Go ahead and join our [discord](https://dsc.gg/heavenos) to get support or talk with a great community!
 
 <h2> Disclaimer </h2>
 
