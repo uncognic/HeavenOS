@@ -4,7 +4,7 @@
   HeavenOS
   <br>
 </h1>
-<h4 align="center"> Open-source modification of Windows 10 designed for user privacy and performance. </h4>
+<h4 align="center"> Open-source modification of the Windows 10 operating system designed for user privacy and performance. </h4>
 
 <h2> Private </h2>
 
