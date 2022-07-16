@@ -37,8 +37,8 @@ Therefore you can contribute project or learn new things about windows.
   ```
 7. Make any changes you want to NTLite's settings, components; not for basic users
 8. Go to the "Apply" tab and:
-8.1. You can choose .ESD or .WIM compression. ESD is needed when you did your ISO completely.
-8.2. NTLite gives you the ability to save ISO wherever you want. Save it to a preferred location.
+    - You can choose .ESD or .WIM compression. ESD is needed when you did your ISO completely.
+    - NTLite gives you the ability to save ISO wherever you want. Save it to a preferred location.
 9. Done.
 
 ## Resources used during developement
