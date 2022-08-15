@@ -8,6 +8,7 @@
 
 <h2> Private </h2>
 
+READ [THIS](https://github.com/kryxzz/HeavenOS-ARCHIVED/blob/main/README2.md) BEFORE CONTINUING.
 Heaven removes Microsoft tracking services and disables almost all telemetry.
 You can feel safe and work without any dangers.
 
